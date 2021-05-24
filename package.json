@@ -1,5 +1,5 @@
 {
-  "name": "auto-slots",
+  "name": "@evanminto/auto-slots",
   "version": "1.0.0",
   "description": "Tiny mixin for web components that enables child elements to dynamically define their own slot names.",
   "main": "index.js",
