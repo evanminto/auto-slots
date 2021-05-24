@@ -1,0 +1,9 @@
+{
+  "name": "auto-slots",
+  "version": "1.0.0",
+  "description": "Tiny mixin for web components that enables child elements to dynamically define their own slot names.",
+  "main": "index.js",
+  "repository": "git@github.com:evanminto/auto-slots.git",
+  "author": "Evan Minto <vamptvo@gmail.com>",
+  "license": "MIT"
+}
